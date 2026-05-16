@@ -1,3 +1,4 @@
 /JUCE
 /.venv
-.wav
+__pycache__/
+*.wav
